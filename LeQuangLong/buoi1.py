@@ -1,2 +1,3 @@
 print "Hello World"
-print "xxx"
+print "longlq_sua"
+print "alo"
