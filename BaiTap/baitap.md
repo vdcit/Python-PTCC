@@ -1,5 +1,12 @@
 ##Buổi 1
+### Bài 1:
+
+Cài đặt Python, soạn thảo chương trình python đầu tiên in ra màn hình  dòng chữ " Hello Word"
 ##Buổi 2
+
+###Bài 1:
+
+Tạo thư mục cá nhân cùng với file bài tập buổi 1, sau đó pull request lên vdcit
 ## Buổi 3
 ###Bài 1:
 
