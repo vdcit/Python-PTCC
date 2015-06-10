@@ -15,7 +15,8 @@ def do_four(f, val):
 Chạy dòng code 1 lưu biến text là chuỗi spam.
 Thực hiện dòng code 2 nó đến hàm do_four và gán f = print_twice và val = text
 khi hàm do_four thực hiện nó gọi đến hàm do_twice lần 1 và thực thi do_twice với f = print_twice với giá trị truyền vào cho đối số printVal là biến val 
-và val = 'spam'. => in ra 2 dòng là
+và val = spam. 
+==> in ra 2 dòng là
 ```
 spam
 tran_manh_huy
