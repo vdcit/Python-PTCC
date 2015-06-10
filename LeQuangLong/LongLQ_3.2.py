@@ -1,0 +1,1 @@
+print "Tong tien mua sach la: %2.3f" %(24.95 * 0.4 * 60 + 3 + 0.75 *59)
