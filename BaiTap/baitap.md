@@ -1,7 +1,7 @@
 ##Tổng hợp bài tập qua mỗi buổi học của lớp Python-PTCC
 
 ###Buổi 1: Giới thiệu ngôn ngữ lập trình Python
-#### Bài 1:
+#### Bài tập 1:
 
 Cài đặt Python, soạn thảo chương trình python đầu tiên in ra màn hình  dòng chữ " Hello Word"
 ###Buổi 2: Cài đặt và sử dụng github
