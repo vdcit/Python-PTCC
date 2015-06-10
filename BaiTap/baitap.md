@@ -1,3 +1,5 @@
+##Tổng hợp bài tập qua mỗi buổi học của lớp Python-PTCC
+
 ###Buổi 1: Giới thiệu ngôn ngữ lập trình Python
 #### Bài 1:
 
