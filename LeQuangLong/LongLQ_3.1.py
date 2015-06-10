@@ -7,5 +7,5 @@ while True:
     except ValueError:
         data = raw_input('Nhap so:> ')
     else:
-    	print "The tich hinh cau ban kinh %2.2f la: %2.3f" %(number, 4/3 * math.pi * number ** 3)
+    	print "The tich hinh cau ban kinh %2.2f la: %2.3f" %(number, math.pi * number ** 3 * 4.0/3.0)
     	break
