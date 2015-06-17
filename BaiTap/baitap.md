@@ -19,3 +19,27 @@ Thể tích của một hình cầu có bán kính bằng 5 là bao nhiêu?
 Coi rằng giá bìa của một cuốn sách là $24.95, nhưng các hiệu sách được mua giảm giá 40%. Tiền vận chuyển là $3 với cuốn sách đầu và 75 xu với mỗi cuốn sách thêm. Tổng số tiền bán cho 60 bản sách là bao nhiêu?
 
 ### Buổi 4: Function
+
+Sử dụng hàm để in ra hình sau:
+<img src="http://i.imgur.com/bzZsp8i.png">
+
+### Buổi 5: Cấu trúc điều khiển
+#### Bài 1:
+
+Sử dụng các câu lệnh điều kiển, hàm, exception viết chương trình quản lý máy ảo gồm các chức năng:
+
+- Hiển thị menu
+- Ấn 1 để tạo máy ảo
+- Ấn 2 để xóa máy ảo
+- Ấn 3 để thay đổi cấu hình
+- Ấn ‘q’ để thoát chương trình
+
+### Buổi 6: List, Dictionary
+#### Bài 1:
+
+Bài tập: viết lại chương trình quản lý máy ảo ở buổi trước có sử dụng list để lưu thông tin. Trong bài phải sử dụng function, built-in, docstring.
+
+#### Bài 2: 
+
+Viết lại chương trình quản lý máy ảo dict để lưu thông tin. Trong bài phải sử dụng function, built-in, docstring.
+
