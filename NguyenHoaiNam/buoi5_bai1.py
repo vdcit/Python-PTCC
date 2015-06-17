@@ -1,9 +1,9 @@
 # Bai tap ve nha buoi 5 
 # Author: Nguyen Hoai Name
-print "An 1 de tao may ao\n\
-An 2 de xoa may ao\n\
-An 3 de thay doi cau hinh\n\
-An 'q' de thoat chuong trinh"
+print """An 1 de tao may ao
+An 2 de xoa may ao
+An 3 de thay doi cau hinh
+An 'q' de thoat chuong trinh"""
 while True:
     dau_vao = raw_input("Nhap so: ")
     if dau_vao == '1':
