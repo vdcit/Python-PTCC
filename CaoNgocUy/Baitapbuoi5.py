@@ -8,23 +8,24 @@ while nhap:
     - Nhan 3 de chon thay doi may ao.
     - Nhan q de chon thoat.
     """)
-    nhap = raw_input("Ban chon de thao tac voi may ao: ") 
-    if nhap == "1": 
+    an = raw_input("Ban chon de thao tac voi may ao: ") 
+    if an == "1": 
         print("""\n Thanks :) Ban da chon tao may ao. 
                     Executing ... Done!!!
                     Quay lai menu. Loading ...""") 
-    elif nhap == "2":
+    elif an == "2":
         print("""\n Thanks :) Ban da chon xoa may ao. 
                     Executing ... Done!!!
                     Quay lai menu. Loading ...""") 
-    elif nhap == "3":
+    elif an == "3":
         print("""\n Thanks :) Ban da chon thay doi may ao. 
                     Executing ... Done!!!
                     Quay lai menu. Loading ...""") 
-    elif nhap == "q":
+    elif an == "q":
         print("""\n OMG - Ban da chon thoat. 
                     Tam biet!""")
         break
-    elif nhap !="":
+    else:
         print("""\n WARNING: Ban chon khong hop le, quay lai menu de chon.
                     Loading...""")
+    
